@@ -1,9 +1,8 @@
 //
 //  UIFont-FamilyNames.swift
-//  mSTUV
 //
-//  Created by Ryu on 2017. 8. 3..
-//  Copyright © 2017년 mLab. All rights reserved.
+//  Created by Ryugilwan on 2017. 8. 3..
+//  Copyright © 2017년 Ryugilwan. All rights reserved.
 //
 
 Family -> "Copperplate"
